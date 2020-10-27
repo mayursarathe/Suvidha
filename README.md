@@ -18,7 +18,7 @@
 # Flowchart
 ![Flowchart](assets/Flowchart_updated.png?raw=true)
 
-# Technology Stack and Roadmap
+# Technology Stack and Roadmap  
 
 ![TechStack](assets/Technology%20Stack.JPG?raw=true)
 ![Roadmap](assets/Roadmap.JPG?raw=true)
