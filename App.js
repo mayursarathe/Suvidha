@@ -2,7 +2,7 @@
 import React from "react";
 import { StyleSheet } from "react-native";
 
-//Navigation
+// Navigation
 import Navigation from "./navigation";
 
 //Hide db warnings
